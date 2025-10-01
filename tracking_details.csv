@@ -1,0 +1,24 @@
+key,type,prompt,time,process
+product_brand_legible,video,Check whether the product and brand name are clearly legible in the product showcase,14,max
+product_showcase,video,check whether the product is showcased in the first 15 seconds,13,min
+application_of_serum,video,Check whether the SERUM IS APPLIED ON THE SCALP using pippette,0,min
+video_length,video,Check whether the video length is under 45 seconds,0,min
+audio_or_music,audio,Check if the audio or music is present or not in this,0,min
+product_named,audio,"Check whether the full product name is called out -  "" Dove Scalp+ Hair Therapy Serum """,0,min
+name_call_out,audio,"check whether any 2 of the following is called out - thicker, denser, Zinc peptides, Niacinamide, Clinically proven, Strengthens roots, Easy-to-use, Overnight, Scalp health, hairfall, Reduces thinning, Nourishes deeply, damage, Lightweight. Strengthens Hair",0,min
+cta_in_audio,audio,check whether CTA (call to action) is in audio,0,min
+no_bg_bo_noise,audio,"Check whether no Background music , audio is legible",0,min
+product_name,ocr,check whether the following word is present - Dove Scalp+ Hair Therapy Scalp Serum,0,min
+key_word_call_out,ocr,"check whether any 2 of the following is called out - thicker, denser, Zinc peptides, Niacinamide, Clinically proven, Strengthens roots, Easy-to-use, Overnight, Scalp health, hairfall, Reduces thinning, Nourishes deeply, damage, Lightweight. Strengthens Hair",0,min
+ad_mentioned,ocr,check whether the word AD is present in the top right corner.,0,min
+no_overlapping_ocr,ocr,There is no overlapping OCR text.,0,min
+call_out_1,ocr,"check whether the following is present in the image -  Grows new hair in 4 weeks*""  OR  Boost hair density in 8 weeks",0,min
+call_out_2,ocr,"check whether the following text is present.
+Based on clinical study 2024, for usual hair thinning OR Basis consumer self-assessment in clinical study, 2024",0,min
+cta_in_ocr,ocr,check whether CTA (call to action) is in ocr,0,min
+no_color,video_audio_ocr,check for no bright colors,0,min
+no_cheap_humor,video_audio_ocr,Check if there is no cheap humor,0,avg
+nsfw,video,Check whether there is explicit dressing in the video,0,avg
+language,video_audio_ocr,Check that no explicit or abusive language / derogatory language against any community/ gender,0,avg
+comments,video_audio_ocr,Check if any political or controversial comments have been made,0,avg
+other_brand,video_audio_ocr,Check if any other brand except Dove has been mentioned or shown in the video,0,avg

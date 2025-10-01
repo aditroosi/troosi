@@ -1,0 +1,6 @@
+file_name,product_brand_legible_video__max,product_showcase_video__min,application_of_serum_video__min,video_length_video__min,product_name_ocr__min,key_word_call_out_ocr__min,ad_mentioned_ocr__min,no_overlapping_ocr_ocr__min,call_out_1_ocr__min,call_out_2_ocr__min,cta_in_ocr_ocr__min,no_color_video__min,no_cheap_humor_video__avg,nsfw_video__avg,language_video__avg,comments_video__avg,other_brand_video__avg,audio_or_music_audio,product_named_audio,name_call_out_audio,cta_in_audio_audio,no_bg_bo_noise_audio,no_color_audio,no_cheap_humor_audio,language_audio,comments_audio,other_brand_audio,video_length
+1,1,1,1,0,1,1,0,1,1,1,1,1,100.0,100.0,100.0,100.0,7.142857142857142,1,1,1,1,1,0,1,1,0,1,19.62
+2,1,1,1,0,1,1,1,1,1,1,1,1,100.0,100.0,100.0,100.0,20.0,0,0,0,0,0,0,0,0,0,0,21.34
+3,1,1,1,0,1,1,1,1,1,1,1,1,100.0,100.0,100.0,100.0,6.25,0,0,0,0,0,0,0,0,0,0,22.6
+4,1,1,1,0,1,1,1,1,1,1,1,1,100.0,100.0,100.0,100.0,11.11111111111111,0,0,0,0,0,0,0,0,0,0,26.19
+5,1,1,1,0,1,0,1,1,1,1,0,1,100.0,100.0,100.0,100.0,0.0,1,0,1,1,1,0,1,1,0,0,12.98
